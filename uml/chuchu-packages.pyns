@@ -1,0 +1,5 @@
+# PynSource Version 1.2
+{'type':'meta', 'info1':'Lorem ipsum dolor sit amet, consectetur adipiscing elit is latin. Comments are saved.'}
+{'type':'umlshape', 'id':'MainWidgetControl', 'x':131, 'y':63, 'width':180, 'height':154, 'attrs': '', 'meths': 'loadOrdersData|openOrdersWidget|openMenuWidget|openUserManagerWidget|connectToFirebase|openSQLite|loadOfflineData'}
+{'type':'umlshape', 'id':'UserManager', 'x':425, 'y':62, 'width':120, 'height':124, 'attrs': '', 'meths': 'loadUsers|showUserDetails|insertUser|deleteUser|updateUser'}
+{'type':'edge', 'id':'UserManager_to_MainWidgetControl', 'source':'UserManager', 'target':'MainWidgetControl', 'uml_edge_type': 'composition'}
