@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/chuchu_a_jato_python/chuchu_a_jato_python.iml" filepath="$PROJECT_DIR$/chuchu_a_jato_python/chuchu_a_jato_python.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chuchu_a_jato_python/android/chuchu_a_jato_python_android.iml" filepath="$PROJECT_DIR$/chuchu_a_jato_python/android/chuchu_a_jato_python_android.iml" />
+    </modules>
+  </component>
+</project>
